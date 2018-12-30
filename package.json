@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/zkjaisq/wheel/issues"
   },
-  "homepage": "https://github.com/zkjaisq/wheel#readme"
+  "homepage": "https://github.com/zkjaisq/wheel#readme",
+  "dependencies": {
+    "vue": "^2.5.21"
+  }
 }
